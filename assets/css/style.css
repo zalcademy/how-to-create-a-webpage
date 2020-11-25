@@ -1,0 +1,15 @@
+h4 {
+    color: blue;
+}
+
+#sample_id1 {
+    color: yellow;
+}
+
+.sample_class_orange {
+    color: orange;
+}
+
+.sample_class_blue_bg {
+    background-color: blue;
+}
